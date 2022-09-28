@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/proyecto-nicole/static/css/main.a2790487.css",
+    "main.js": "/proyecto-nicole/static/js/main.e54ef2b9.js",
+    "static/media/undo.png": "/proyecto-nicole/static/media/undo.870b5640c8110ec8ca88.png",
+    "static/media/change.png": "/proyecto-nicole/static/media/change.d01092f556f79d4f7a39.png",
+    "static/media/ñ.mp3": "/proyecto-nicole/static/media/ñ.98b61446a7c779921267.mp3",
+    "index.html": "/proyecto-nicole/index.html",
+    "main.a2790487.css.map": "/proyecto-nicole/static/css/main.a2790487.css.map",
+    "main.e54ef2b9.js.map": "/proyecto-nicole/static/js/main.e54ef2b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2790487.css",
+    "static/js/main.e54ef2b9.js"
+  ]
+}
